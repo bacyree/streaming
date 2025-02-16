@@ -373,10 +373,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #EXTINF:-1 tvg-id="US18000163F" tvg-chno="770" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Miramax.png" group-title="FHD",Miramax Movies Channel 
 https://raw.githubusercontent.com/mystery75/m3u8/main/MIRAMAX.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+#####KODIPROP:inputstream.adaptive.license_type=clearkey
+#####KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="ts210" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png" group-logo="" group-title="FHD",MN+ 
-https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+https://starshare.live:443/live/star123/star123/178.ts
+#####https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
@@ -404,13 +405,13 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227637/3221227637.mpd?rrsip=web.hy
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="FHD",Sony Pix   
-https://live10.ostv.pro/live/Winston123/Winston123/98846.m3u8?token=ShJcU0BbQQNHAQULBlUADgtUUlYFVAdYCFZUB1wGUlYAAA1QVVIHDQcbGBpEF0dcWF1vWQIXXlgJWlYBSUZGQVRCa1tXEVkbVAkNDg5XAxsVEkRZC1BGWwFOQEcMABEIEwMGCgECQRVHXExMUhFbWFVvVFUQXAcEE1gMQgkIHxBeXmtWVl4CVwEbDhoHQRkbUENAElxbEQ1dTkBVDBBBU0VVFggRB1sAUBsYGlQMQFdNQkkSXBcpOBNOQFIdEFZcQllbXBEJQVRWTAwaG0FcSmZCVUMSRwEAXAcQFV9GAxAdEllTS2wAVgtXUVtDClpXShIKElcXSENcDQxeEQtBbUFZUBAJEVIIUw8HCQVBSA==
+https://starshare.live:443/live/Winston123/Winston123/98846.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-title="FHD",Star Movies
-https://live9.ostv.pro/live/star123/star123/979.m3u8?token=ShJcU0BbQQNHXVJaVlsHAQgHVAgFAV0HCQZaVVdQUAEGCFICCgcAWAEbGBpEF0dcWF1vWQIXXlgGW04VEBdWQG5ZUBAJEVsBVQwGARVPF01QXVUSXAVIQ0ELBhVfRgACBAcNAwYRTxsAQUBdRQ1UVWZUVUYPVgFDCwwXWwlIEV1fb1BXXlINXUcDFggVTxdQSkASCghACA0dQABeERZSRlQSDhAABFEPRxUWW1gWW01LSRIKRHg9Qx1AB08RAV1BWF9aEAkRDgoQARYUFQpGZktVQ0QUUAUMVBBADUdUER4TXVVKbFAMVwtcV0xeDFtKGwoSAUQZRgxeDAtDChZsQlhUFggRAlQMVQgEDxUe
+https://starshare.live:443/live/star123/star123/979.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png" group-title="FHD",Star Movies Select
-https://live1.ostv.pro/live/star123/star123/218.m3u8?token=ShJcU0BbQQNHWgINAFMGWA8EAQcFAlRVCFoGBQZQAARVAgVXVVdXXVcbGBpEF0dcWF1vWQIXXlMAWk4VEBdWQG5ZUBAJEVsBVQwGARVPF01QXVUSXAVIQ0ELBhVfRgAKBAYWHhFWG00AS1pZWzxRXE9ZU1VEDwoUXQ5OFQoKbFZUXVVcVxFZG1UbGBpeEEUbA15FXAoZRgNYFhBWEQERCBMCDAoHEU8bBlZBVkMRTBsDEn1pRBlGBEkWB1kWDVxcEwoWXwBGWxtJG11LaBFQSk1CVVELUBZDC0BSFUlGXlNJb1ddXV0GWhFQW1ZEQQ8bCBIcEgtaCghFDRBoFQ1XEAsSBwsLB1cbGA==
+https://starshare.live:443/live/star123/star123/218.ts
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
