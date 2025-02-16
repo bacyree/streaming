@@ -11,15 +11,19 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/TV1.m3u8
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV2.m3u8
 #https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTINF:-1 tvg-id="103.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-logo="" group-title="FHD",TV3 
-https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=M2E0MDgyMmYtMzFkNi0zYWFkLTgyODYtZTA5MDFiNjUyNmZh
+#EXTINF:-1 tvg-id="103.unifi" ch-number="103" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-logo="" group-title="FHD",TV3 
+https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd?accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWHgJ1pKvt1lRjGVuBjPOXv2AdOKWgIh5IEiDm%2FM0j6I0o%2FoIw83oXLZFVYSQnBBI%2FiKpnGDOVh7xgstdkkeZwTJycHE0IqZBvG%2BXsudj34k%3A20240728232643%3AUTC%2C10001002674171%2C1.1.1.1%2C20240728232643%2Curn:Huawei:liveTV:iptv182%2C10001002674171%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C4165497230%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001
 
 #EXTINF:-1 tvg-id="TV6" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv6_Trans.png" group-logo="" group-title="FHD",TV6 
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV6.m3u8
 #https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 tvg-id="148.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png" group-logo="" group-title="FHD",8TV
-https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="108.unifi" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png" group-logo="" group-title="FHD",8TV 
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live08.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
@@ -78,7 +82,6 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227559/3221227559.mpd?rrsip=web.hy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=M2E0MDgyMmYtMzFkNi0zYWFkLTgyODYtZTA5MDFiNjUyNmZh
 #EXTINF:-1 tvg-id="116.unifi" ch-number="116" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png" group-logo="" group-title="FHD",Sensasi 
-https://webr24.hypp.tv/PLTV/88888888/224/3221225762/3221225762.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=bg3viFWue2IiSodD2l%2FWlHx8780Ae3ioQa2tB7xx%2F4COrTNL7x0XT6kKPGusxU1L9sQTYI%2BDuMgt2%2BGpLUSgClpeRIPuaNZZ%2FKkDGGdljzeUqJjWUlyXOzFljNzL8bzk42a3bd361c7271bfe817f86c3042da10%3A20250215174503%3AUTC%2C1005926114%2C175.141.243.220%2C20250215174503%2Curn%3AHuawei%3AliveTV%3ASP000004015718%2C1005926114%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C521738232%2C%2C%2C2%2C1%2C38675409%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAEWOwa7CIBRE_4YlKYWCLFj5YmJiqonVrbkPbrGRFoVq4t9rtYnbmTmTMyawuP4zSiotpWtdiU7gQi8qra1QXLoCKlYJkvFWR1MSCyF0g6-jm7DjfnliBS1oKThlnJNm-lsF8PO0vvf_mH7cHtOjs2hcbukDMgXvE3oYuzjQXYDnIYV5QrCZ3ZjiWgpWKV1IRsYpbSBf3g05Q17G_goJ3Sb6D2BaCBnJFewFPNbQoxnuIXy5bXJvmxeTKVBE9QAAAA&tenantId=6001
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=M2E0MDgyMmYtMzFkNi0zYWFkLTgyODYtZTA5MDFiNjUyNmZh
@@ -729,34 +732,34 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="hbosignature.us" tvg-logo="https://docdog.top/Logotv/countries//hbosignature.png" group-title="Test",HBO Signature
-http://supersonictv.live:8080/live/144264/661943/22900.ts
+http://supersonictv.live:8080/live/144264/661943/22900.m3u8
 
 #EXTINF:-1 tvg-id="skyaction.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png",Sky Action
-http://supersonictv.live:8080/live/144264/661943/77462.ts
+http://supersonictv.live:8080/live/144264/661943/77462.m3u8
 
 #EXTINF:-1 tvg-id="skycinemacomedyhd.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png" group-title="Test",Sky Comedy
-http://supersonictv.live:8080/live/144264/661943/77463.ts
+http://supersonictv.live:8080/live/144264/661943/77463.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png" group-title="Test",Sky Cinema Hits
-http://supersonictv.live:8080/live/144264/661943/77464.ts
+http://supersonictv.live:8080/live/144264/661943/77464.m3u8
 
 #EXTINF:-1 tvg-id="skydrama.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png" group-title="Test",Sky Drama
-http://supersonictv.live:8080/live/144264/661943/77465.ts
+http://supersonictv.live:8080/live/144264/661943/77465.m3u8
 
 #EXTINF:-1 tvg-id="skyfamily.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-family-uk.png" group-title="Test",Sky Family
-http://supersonictv.live:8080/live/144264/661943/77466.ts
+http://supersonictv.live:8080/live/144264/661943/77466.m3u8
 
 #EXTINF:-1 tvg-id="skygreats.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-greats-uk.png" group-title="Test",Sky Greats
-http://supersonictv.live:8080/live/144264/661943/77467.ts
+http://supersonictv.live:8080/live/144264/661943/77467.m3u8
 
 #EXTINF:-1 tvg-id="skypremiere.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png" group-title="Test",Sky Premiere
-http://supersonictv.live:8080/live/144264/661943/77468.ts
+http://supersonictv.live:8080/live/144264/661943/77468.m3u8
 
 #EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png" group-title="Test",Sky Cinema ScFi
-http://supersonictv.live:8080/live/144264/661943/77469.ts
+http://supersonictv.live:8080/live/144264/661943/77469.m3u8
 
 #EXTINF:-1 tvg-id="skyselect.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png" group-title="Test",Sky Cinema Select
-http://supersonictv.live:8080/live/144264/661943/77470.ts
+http://supersonictv.live:8080/live/144264/661943/77470.m3u8
 
 #EXTINF:-1 tvg-id="skythriller.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png" group-title="Test",Sky Thriller
-http://supersonictv.live:8080/live/144264/661943/77471.ts
+http://supersonictv.live:8080/live/144264/661943/77471.m3u8
