@@ -268,6 +268,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 #EXTINF:-1 tvg-id="416.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-logo="" group-title="FHD",tvN Movies 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="FHD",&flix   
+https://live6.ostv.pro/live/star123/star123/253.m3u8?token=ShJcU0BbQQNHDgBeAFJQCgwDAQlXVwJQUFYAD1ZSAVBSUwcGVwABCgYbGBpEF0dcWF1vWQIXXlMEUU4VEBdWQG5ZUBAJEVsBVQwGARVPF01QXVUSXAVIQ0ELBhVfRgEFCAcMBgERTxsAQUBdRQ1UVWZUVUYPVgFDCwwXWwlIEV1fb1BXXlINXUcDFggVTxdQSkASCghACA0dQABeERZSRlQSDhABClsNRxUWW1gWW01LSRIKRHg9Qx1AB08RAV1BWF9aEAkRDgoQARYUFQpGZktVQ0QUUAUMVBBADUdUER4TXVVKbFAMVwtcV0xeDFtKGwoSAUQZRgxeDAtDChZsQlhUFggRAVMNVgoHDRUe
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&privé.png" group-title="FHD",&privé  
+https://live6.ostv.pro/live/star123/star123/201.m3u8?token=ShJcU0BbQQNHD1JeDgYGWl1WAgkHVlECBgcAAVMBVwAAVlUABFZQW1AbGBpEF0dcWF1vWQIXXlMBU04VEBdWQG5ZUBAJEVsBVQwGARVPF01QXVUSXAVIQ0ELBhVfRgEDCQQMBwMRTxsAQUBdRQ1UVWZUVUYPVgFDCwwXWwlIEV1fb1BXXlINXUcDFggVTxdQSkASCghACA0dQABeERZSRlQSDhAAAVIIRxUWW1gWW01LSRIKRHg9Qx1AB08RAV1BWF9aEAkRDgoQARYUFQpGZktVQ0QUUAUMVBBADUdUER4TXVVKbFAMVwtcV0xeDFtKGwoSAUQZRgxeDAtDChZsQlhUFggRAVMNVgEAChUe
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="701.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-logo="" group-title="FHD",Axn  
