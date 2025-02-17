@@ -267,11 +267,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 #EXTINF:-1 tvg-id="416.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-logo="" group-title="FHD",tvN Movies 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="FHD",&flix   
-https://starshare.live:443/live/star123/star123/253.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="FHD",&flix  
+https://starshare.live:443/live/Winston123/Winston123/253.ts
+#####https://starshare.live:443/live/star123/star123/253.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&privé.png" group-title="FHD",&privé  
-https://starshare.live:443/live/star123/star123/201.ts
+https://starshare.live:443/live/Winston123/Winston123/98840.ts
+#####https://starshare.live:443/live/star123/star123/201.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
@@ -373,17 +375,18 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #EXTINF:-1 tvg-id="US18000163F" tvg-chno="770" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Miramax.png" group-title="FHD",Miramax Movies Channel 
 https://raw.githubusercontent.com/mystery75/m3u8/main/MIRAMAX.m3u8
 
-#####KODIPROP:inputstream.adaptive.license_type=clearkey
-#####KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="ts210" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png" group-logo="" group-title="FHD",MN+ 
-https://starshare.live:443/live/star123/star123/178.ts
-#####https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+#####https://starshare.live:443/live/Winston123/Winston123/98847.ts
+#####https://starshare.live:443/live/star123/star123/178.ts
 
-#####KODIPROP:inputstream.adaptive.license_type=clearkey
-#####KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="ts599" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png" group-logo="" group-title="FHD",MNX
-https://starshare.live:443/live/star123/star123/191.ts
-#####https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+#####https://starshare.live:443/live/star123/star123/191.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
@@ -409,10 +412,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 https://starshare.live:443/live/Winston123/Winston123/98846.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-title="FHD",Star Movies
-https://starshare.live:443/live/star123/star123/979.ts
+https://starshare.live:443/live/Winston123/Winston123/98842.ts
+#####https://starshare.live:443/live/star123/star123/979.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png" group-title="FHD",Star Movies Select
-https://starshare.live:443/live/star123/star123/218.ts
+https://starshare.live:443/live/Winston123/Winston123/98843.ts
+#####https://starshare.live:443/live/star123/star123/218.ts
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
