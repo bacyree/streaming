@@ -268,10 +268,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="FHD",&flix  
+http://103.115.126.26:8000/play/a07i/index.m3u8
 https://starshare.live:443/live/Winston123/Winston123/253.ts
 #####https://starshare.live:443/live/star123/star123/253.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&privé.png" group-title="FHD",&privé  
+http://103.115.126.26:8000/play/a056/index.m3u8
 https://starshare.live:443/live/Winston123/Winston123/98840.ts
 #####https://starshare.live:443/live/star123/star123/201.ts
 
@@ -409,13 +411,16 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227637/3221227637.mpd?rrsip=web.hy
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="FHD",Sony Pix   
+http://103.115.126.26:8000/play/a05q/index.m3u8
 https://starshare.live:443/live/Winston123/Winston123/98846.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-title="FHD",Star Movies
+http://103.115.126.26:8000/play/a05s/index.m3u8
 https://starshare.live:443/live/Winston123/Winston123/98842.ts
 #####https://starshare.live:443/live/star123/star123/979.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png" group-title="FHD",Star Movies Select
+http://103.115.126.26:8000/play/a080/index.m3u8
 https://starshare.live:443/live/Winston123/Winston123/98843.ts
 #####https://starshare.live:443/live/star123/star123/218.ts
 
