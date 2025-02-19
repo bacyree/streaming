@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 
 https://xmltv.tvkaista.net/guides/indihometv.com.xml
@@ -447,7 +447,7 @@ https://starshare.live:443/live/Winston123/Winston123/98843.ts
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="Studio.Universal.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StudioUniversal.png" group-logo="" group-logo="" group-title="FHD",Studio Universal
+#EXTINF:-1 tvg-id="Studio.Universal.br" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StudioUniversal.png" group-logo="" group-logo="" group-title="FHD",Studio Universal
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
