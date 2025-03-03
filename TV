@@ -102,7 +102,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="108.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png" group-logo="" group-title="FHD",Citra 
-https://linears-playback.astro.com.my/vsg/41i0AhD1h8TqBN1XoM9QoaSCHk5U7A0CBGmBiNtXTXoi8=P-lh/dash-wv/jitp-linearwm/2700/default_primary.mpd
+https://linearjitp.perfecttv.net/citra.mpd
 #####https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -113,7 +113,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="105.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" group-logo="" group-title="FHD",Prima
-https://linears-playback.astro.com.my/vsg/41l4PPHfAXkoeXe8kQNa8H2Uu0fzYXjA1KtK3pAOxnin4=9Yno/dash-wv/jitp-linearwm/1000/default_primary.mpd
+https://linearjitp.perfecttv.net/prima.mpd
 #####https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -124,7 +124,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="104.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png" group-logo="" group-title="FHD",Ria 
-https://linears-playback.astro.com.my/vsg/41pLfb9ybAaeNs5ReczbAJUK-3eM4vFOVkPw0JFFcVcyw=MU-s/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linearjitp.perfecttv.net/ria.mpd
 #####https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -193,7 +193,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5179/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"CE52Vhu6nU866VOs3Tez7Q", "kid":"kYrevhCphI1WfcbLWtzlEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="241.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroThangathirai_2024.png" group-logo="" group-title="FHD",Thangathirai
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/thang.mpd
+https://linearjitp.perfecttv.net/Abo.mpd
 #####https://linearjitp-playback.astro.com.my/dash-wv/linear/5125/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -209,7 +209,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aMXbOzCfq1UDpv21gN3ygQ", "kid":"x3N+3R1ngk+nDfcxVL+BEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="202.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroVinmeen_2024.png" group-logo="" group-title="FHD",Vinmeen
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/vin.mpd
+https://linearjitp.perfecttv.net/vinmeen.mpd
 #####https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd-1/logo_20220801_201502_68.png"  group-logo="" group-title="FHD",BollywooD 
@@ -803,32 +803,77 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
                                                                                                                                     Sky
 ##############################################################################################################################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="skyaction.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png" group-title="Sky",Sky Cinema Action
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png" group-title="Sky Cinema",Sky Cinema Action
 http://supersonictv.live:8080/live/144264/661943/77462.ts
 
-#EXTINF:-1 tvg-id="skycinemacomedyhd.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png" group-title="Sky",Sky Cinema Comedy
+#EXTINF:-1 tvg-id="skycinemacomedyhd.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png" group-title="Sky Cinema",Sky Cinema Comedy
 http://supersonictv.live:8080/live/144264/661943/77463.ts
 
-#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png" group-title="Sky",Sky Cinema Hits
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png" group-title="Sky Cinema",Sky Cinema Hits
 http://supersonictv.live:8080/live/144264/661943/77464.ts
 
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png" group-title="Sky",Sky Drama
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png" group-title="Sky Cinema",Sky Cinema Drama
 http://supersonictv.live:8080/live/144264/661943/77465.ts
 
-#EXTINF:-1 tvg-id="skyfamily.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sky_Cinema_Family_DE_Logo_2016.png/320px-Sky_Cinema_Family_DE_Logo_2016.png" group-title="Sky",Sky Cinema Family
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Sky_Cinema_Family_%28alternative%29.svg/revision/latest/scale-to-width-down/1000?cb=20220502203843" group-title="Sky Cinema",Sky Cinema Family
 http://supersonictv.live:8080/live/144264/661943/77466.ts
 
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/90/Sky_Cinema_Greats_%282020-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20200918051036" group-title="Sky",Sky Greats
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/90/Sky_Cinema_Greats_%282020-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20200918051036" group-title="Sky Cinema",Sky Cinema Greats
 http://supersonictv.live:8080/live/144264/661943/77467.ts
 
-#EXTINF:-1 tvg-id="skypremiere.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png" group-title="Sky",Sky Premiere
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png" group-title="Sky Cinema",Sky Cinema Premiere
 http://supersonictv.live:8080/live/144264/661943/77468.ts
 
-#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png" group-title="Sky",Sky Cinema ScFi
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/d/dc/Sky_Cinema_Sci-Fi_Horror_%282020-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20201028120857" group-title="Sky Cinema",Sky Cinema ScFi
 http://supersonictv.live:8080/live/144264/661943/77469.ts
 
-#EXTINF:-1 tvg-id="skyselect.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png" group-title="Sky",Sky Cinema Select
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png" group-title="Sky Cinema",Sky Cinema Select
 http://supersonictv.live:8080/live/144264/661943/77470.ts
 
-#EXTINF:-1 tvg-id="skythriller.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png" group-title="Sky",Sky Thriller
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png" group-title="Sky Cinema",Sky Cinema Thriller
 http://supersonictv.live:8080/live/144264/661943/77471.ts
+
+##############################################################################################################################################################################################################################################################################
+                                                                                                                            Sooka
+##############################################################################################################################################################################################################################################################################
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA3OTYxODEsImlzcyI6IlZSIiwiZXhwIjoxNzQwODY4MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMDkwNTc5YzAtYzcwMC00OGJhLWIzZTAtMzVjNGRjODA0MTdjIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.0Eu2yPIZxUX_l0Qq-0sHjx2wWNxaaI-jM7QsdQB5kQg"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"57833c900c4c437f82daf6785eb6ef36":"7bf4663e43cdc277b4ae18219c81d2a1","fb06bb8266fb4a998e7c4e7e90461556":"52242587d8106c4b3ed596c7a56b4e28"}
+#EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" group-title="SPORTS" group-logo="https://iili.io/H7B4QYF.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png",Astro Arena Bola
+https://l01.dp.sooka.my/5099/linear/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA3OTYxODEsImlzcyI6IlZSIiwiZXhwIjoxNzQwODY4MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMDkwNTc5YzAtYzcwMC00OGJhLWIzZTAtMzVjNGRjODA0MTdjIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.0Eu2yPIZxUX_l0Qq-0sHjx2wWNxaaI-jM7QsdQB5kQg"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1314914fb4f94984b7a7572a03b69f93":"7ec8c4186df69a58cf640291a7c9ac7c","f166a88a7f1b40bba2e399bf2f972365":"abf14067e089861730f4c6ff24b52dba"}
+#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" group-title="SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png",Astro Arena Bola 2
+https://l02.dp.sooka.my/5100/linear/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA3OTYxODEsImlzcyI6IlZSIiwiZXhwIjoxNzQwODY4MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMDkwNTc5YzAtYzcwMC00OGJhLWIzZTAtMzVjNGRjODA0MTdjIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.0Eu2yPIZxUX_l0Qq-0sHjx2wWNxaaI-jM7QsdQB5kQg"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"66c94fd8908c43ccb5e7b3dd58a990d2":"d489da5a8496d00a04757d432816ab71","505aefcda9084f83bc5c6cc53f0ef9c6":"f89898184ed921e225cd89f4d2ea1035"}
+#EXTINF:-1 tvg-id="AstroGrandstand" group-title="SPORTS" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" ch-number="810" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png",Astro Grandstand
+https://l03.dp.sooka.my/2701/linear/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Q+/2qNqJajQFbzOeyVYgRQ","kid":"EJC+8ydbRdGIIAuCj+MFJw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"bb2dc3cfa3024039ae59b55e6b0b5de5":"03d25d6ceb16fc4e007697e9d2124fac","1090bef3275b45d188200b828fe30527":"43eff6a8da896a34056f339ec9562045"}
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS",811 Astro Premier League HD
+https://l01.dp.sooka.my/601/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA3MTc3MjUsImlzcyI6IlZSIiwiZXhwIjoxNzQwNzgxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGRiYTdiNTEtOTNlNC00ZjY4LTljZDEtOGY3NDFmZTAwY2FhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.okakgUa_tW51hRRaTymYZc-nsCiy2VcNd4eKL8lft6U
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Q6yFOCiTGUgC8NNNv3EFng","kid":"TsrZra6PRPCxyL9cSS2mEw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"4ecad9adae8f44f0b1c8bf5c492da613":"43ac85382893194802f0d34dbf71059e","537a246e0284449a862dfd4dc43b7c79":"f3829c61a21ceae05ee5d5260679c210"}
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png",812 Astro Premier League 2 HD
+https://l02.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA3MTc3MjUsImlzcyI6IlZSIiwiZXhwIjoxNzQwNzgxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGRiYTdiNTEtOTNlNC00ZjY4LTljZDEtOGY3NDFmZTAwY2FhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.okakgUa_tW51hRRaTymYZc-nsCiy2VcNd4eKL8lft6U
+
