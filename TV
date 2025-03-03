@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/Jerrie-Aries/epg/master/epg.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/Jerrie-Aries/epg/master/epg.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://www.open-epg.com/files/philippines3.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
 https://xmltv.tvkaista.net/guides/indihometv.com.xml
@@ -360,15 +360,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 #EXTINF:-1 tvg-id="414.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-logo="" group-title="FHD",Hbo Family  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sckuy12.kingtvpremium.workers.dev/
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO.Signature.HD.id" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-logo="" group-title="FHD", HBO Signature
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/400px-HBO_Signature_Asia.png" group-title="FHD", HBO Signature
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NssgY79TONGNMWVzcbFYFw", "kid":"H+kmhadYRNxUydrBJIAlEA" } ], "type":"temporary" }
@@ -471,6 +467,18 @@ https://ott.zapitv.com/live/eds_c2/sundance_hd/dash_live_enc/sundance_hd.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DQ31GJJWwL8ywM0JdrrFvQ", "kid":"leweJugMOCWKMBAdBsjL9w" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Syfy.png" group-title="FHD", SyFy
 https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
+#EXTINF:-1 tvg-id="TAPMOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png" group-title="FHD", Tap Movies
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
+#EXTINF:-1 tvg-id="TAPACTIONFLIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDqmQyNNz--w-zNPAVx8fJLWG1xYahFiohWA&s" group-title="FHD", Tap Action Flix
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+DJvZox77jCeUwK1E+W99w", "kid":"YJPhJjmyTNZR7ms8E0RtEA" } ], "type":"temporary" }
@@ -788,111 +796,39 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="FHD",Active 10
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 
-##############################################################################################################################################################################################################################################################################
-                                                                                                                                        Philippines
-##############################################################################################################################################################################################################################################################################
-
-
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/philippines1.xml,https://www.open-epg.com/files/philippines2.xml,https://www.open-epg.com/files/philippines3.xml"
-
-
-
-
-
-#EXTINF:-1 tvg-id="DreamworksTVPH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKTkCqWmuGhM885nbpI1CIiFbWmhCtkIpbxg&s" group-title="Philippines", Dreamworks Channel 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
-
-#EXTINF:-1 tvg-id="CinemaxPH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Philippines", Cinemax 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
-
-#EXTINF:-1 tvg-id="HBOFAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="Philippines", HBO Family
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
-
-#EXTINF:-1 tvg-id="HBOHDPHILIPPINES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/440px-HBO_logo.svg.png" group-title="Philippines", HBO Philippines
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
-
-#EXTINF:-1 tvg-id="HBOHITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Philippines", HBO Hits
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
-
-#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/400px-HBO_Signature_Asia.png" group-title="Philippines", HBO Signature
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
-
-#EXTINF:-1 tvg-id="HITSASIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HITS-WWW-Banner1.png" group-title="Philippines", HITS 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
-https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
-
-#EXTINF:-1 tvg-id="TAPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="Philippines", TapTV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
-
-#EXTINF:-1 tvg-id="TAPMOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png" group-title="Philippines", Tap Movies
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
-
-#EXTINF:-1 tvg-id="TAPACTIONFLIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDqmQyNNz--w-zNPAVx8fJLWG1xYahFiohWA&s" group-title="Philippines", Tap Action Flix
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
-
-
+#####EXTINF:-1 tvg-id="hbosignature.us" tvg-logo="https://docdog.top/Logotv/countries//hbosignature.png" group-title="Test",HBO Signature
+#####http://supersonictv.live:8080/live/144264/661943/22900.ts
 
 ##############################################################################################################################################################################################################################################################################
+                                                                                                                                    Sky
+##############################################################################################################################################################################################################################################################################
 
-
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-logo="https://docdog.top/Logotv/countries//hbosignature.png" group-title="Test",HBO Signature
-http://supersonictv.live:8080/live/144264/661943/22900.ts
-
-#EXTINF:-1 tvg-id="skyaction.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png" group-title="Test",Sky Action
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png" group-title="Sky",Sky Cinema Action
 http://supersonictv.live:8080/live/144264/661943/77462.ts
 
-#EXTINF:-1 tvg-id="skycinemacomedyhd.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png" group-title="Test",Sky Comedy
+#EXTINF:-1 tvg-id="skycinemacomedyhd.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png" group-title="Sky",Sky Cinema Comedy
 http://supersonictv.live:8080/live/144264/661943/77463.ts
 
-#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png" group-title="Test",Sky Cinema Hits
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png" group-title="Sky",Sky Cinema Hits
 http://supersonictv.live:8080/live/144264/661943/77464.ts
 
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png" group-title="Test",Sky Drama
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png" group-title="Sky",Sky Drama
 http://supersonictv.live:8080/live/144264/661943/77465.ts
 
-#EXTINF:-1 tvg-id="skyfamily.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-family-uk.png" group-title="Test",Sky Family
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sky_Cinema_Family_DE_Logo_2016.png/320px-Sky_Cinema_Family_DE_Logo_2016.png" group-title="Sky",Sky Cinema Family
 http://supersonictv.live:8080/live/144264/661943/77466.ts
 
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-greats-uk.png" group-title="Test",Sky Greats
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/90/Sky_Cinema_Greats_%282020-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20200918051036" group-title="Sky",Sky Greats
 http://supersonictv.live:8080/live/144264/661943/77467.ts
 
-#EXTINF:-1 tvg-id="skypremiere.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png" group-title="Test",Sky Premiere
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png" group-title="Sky",Sky Premiere
 http://supersonictv.live:8080/live/144264/661943/77468.ts
 
-#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png" group-title="Test",Sky Cinema ScFi
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png" group-title="Sky",Sky Cinema ScFi
 http://supersonictv.live:8080/live/144264/661943/77469.ts
 
-#EXTINF:-1 tvg-id="skyselect.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png" group-title="Test",Sky Cinema Select
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png" group-title="Sky",Sky Cinema Select
 http://supersonictv.live:8080/live/144264/661943/77470.ts
 
-#EXTINF:-1 tvg-id="skythriller.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png" group-title="Test",Sky Thriller
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png" group-title="Sky",Sky Thriller
 http://supersonictv.live:8080/live/144264/661943/77471.ts
