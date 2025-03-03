@@ -569,10 +569,10 @@ https://jmp2.uk/sam-GB2600018PD.m3u8
 #EXTINF:-1 tvg-id="GBBA3300020DM" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/287ea9f7-b2da-42fd-8ffa-b636eb08b5b2-width190-quality100.png" group-logo=""  group-title="Rakuten",Rakuten Romance ᴴᴰ  
 https://jmp2.uk/sam-GBBA3300020DM.m3u8
 
-#EXTINF:-1 channel-id="GB19000017P" tvg-id="GB19000017P" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/3bae481e-2c87-4e98-85b3-2a1ad67ffb8b-width200-quality90.png" group-title="Rakuten" tvg-chno="4975",Rakuten Sci-Fi ᴴᴰ
+#EXTINF:-1 tvg-id="GB19000017P" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/3bae481e-2c87-4e98-85b3-2a1ad67ffb8b-width200-quality90.png" group-title="Rakuten" tvg-chno="4975",Rakuten Sci-Fi ᴴᴰ
 https://jmp2.uk/sam-GB19000017P.m3u8
 
-#EXTINF:-1 tvg-id="Thrillers.-.Rakuten.TV.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/1d168cc5-df73-4647-ac86-6f07b6202546-thrillers-rakuten-tv-1646657740-width190-quality100.png" group-logo=""  group-title="Rakuten",Rakuten Thrillers ᴴᴰ  
+#EXTINF:-1 tvg-id="Thrillers.-.Rakuten.TV.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/1d168cc5-df73-4647-ac86-6f07b6202546-thrillers-rakuten-tv-1646657740-width190-quality100.png" group-logo="" group-title="Rakuten",Rakuten Thrillers ᴴᴰ  
 
 
 #EXTINF:-1 tvg-id="Rakuten.VIKI.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/38a298ea-4739-4ae9-b656-7f5881195c06-width190-quality100.png" group-logo=""  group-title="Rakuten",Rakuten Viki ᴴᴰ  
