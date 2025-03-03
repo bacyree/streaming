@@ -297,6 +297,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 #EXTINF:-1 tvg-id="416.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-logo="" group-title="Korea",tvN Movies 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
+
+##############################################################################################################################################################################################################################################################################
+                                                                                                                                    Movies
+##############################################################################################################################################################################################################################################################################
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="Movies",&flix  
 http://103.115.126.26:8000/play/a07i/index.m3u8
 https://starshare.live:443/live/Winston123/Winston123/253.ts
@@ -460,6 +466,51 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Xtrm.png" group-title="Movies",XTRM 
 https://ott.zapitv.com/live/eds_c2/xtrm_hd/dash_live_enc/xtrm_hd.mpd
 
+
+
+##############################################################################################################################################################################################################################################################################
+                                                                                                                                    Sky Cinema
+##############################################################################################################################################################################################################################################################################
+
+
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png" group-title="Sky Cinema",Sky Cinema Action
+http://supersonictv.live:8080/live/144264/661943/77462.ts
+
+#EXTINF:-1 tvg-id="skycinemacomedyhd.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png" group-title="Sky Cinema",Sky Cinema Comedy
+http://supersonictv.live:8080/live/144264/661943/77463.ts
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png" group-title="Sky Cinema",Sky Cinema Hits
+http://supersonictv.live:8080/live/144264/661943/77464.ts
+
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png" group-title="Sky Cinema",Sky Cinema Drama
+http://supersonictv.live:8080/live/144264/661943/77465.ts
+
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Sky_Cinema_Family_%28alternative%29.svg/revision/latest/scale-to-width-down/1000?cb=20220502203843" group-title="Sky Cinema",Sky Cinema Family
+http://supersonictv.live:8080/live/144264/661943/77466.ts
+
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/90/Sky_Cinema_Greats_%282020-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20200918051036" group-title="Sky Cinema",Sky Cinema Greats
+http://supersonictv.live:8080/live/144264/661943/77467.ts
+
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png" group-title="Sky Cinema",Sky Cinema Premiere
+http://supersonictv.live:8080/live/144264/661943/77468.ts
+
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/d/dc/Sky_Cinema_Sci-Fi_Horror_%282020-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20201028120857" group-title="Sky Cinema",Sky Cinema ScFi
+http://supersonictv.live:8080/live/144264/661943/77469.ts
+
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png" group-title="Sky Cinema",Sky Cinema Select
+http://supersonictv.live:8080/live/144264/661943/77470.ts
+
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png" group-title="Sky Cinema",Sky Cinema Thriller
+http://supersonictv.live:8080/live/144264/661943/77471.ts
+
+
+
+##############################################################################################################################################################################################################################################################################
+                                                                                                                                    Variety
+##############################################################################################################################################################################################################################################################################
+
+
+
 #EXTINF:-1 tvg-id="USBD700016JY" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Dove.png" group-logo="" group-logo="" group-title="Variety",Dove 
 https://raw.githubusercontent.com/mystery75/m3u8/main/DOVE.m3u8
 
@@ -510,6 +561,12 @@ https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+DJvZox77jCeUwK1E+W99w", "kid":"YJPhJjmyTNZR7ms8E0RtEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="712.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-logo="" group-title="Variety",Warner TV     
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
+
+
+##############################################################################################################################################################################################################################################################################
+                                                                                                                                    Kids
+##############################################################################################################################################################################################################################################################################
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=M2E0MDgyMmYtMzFkNi0zYWFkLTgyODYtZTA5MDFiNjUyNmZh
@@ -568,6 +625,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tKu+6Vtps+gKDRQScshw2w", "kid":"+mUiDJ925CQXOJnfUzptEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="617.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_10000498_v1.png" group-logo="" group-title="Kids",Nickelodeon Junior
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
+
+
+##############################################################################################################################################################################################################################################################################
+                                                                                                                                    Sports
+##############################################################################################################################################################################################################################################################################
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4VG7gUaKhCbWqxKGDTFKow", "kid":"SZqPNoBksRzAkrewE9sHEA" } ], "type":"temporary" }
@@ -722,10 +785,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 #####EXTINF:-1 tvg-id="830.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-logo="" group-title="Sports",WWE Network
 #####https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btySxJvoTKei8ye+r7zK5g", "kid":"Gv3K9BmL/TIAWERp/D5REA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="549.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature4K_190x80_TV-Guide.png" group-logo="" group-title="4K",Love Nature 4K
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_ott.mpd
+
+##############################################################################################################################################################################################################################################################################
+                                                                                                                              4K
+##############################################################################################################################################################################################################################################################################
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -734,7 +798,28 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_ott.mpd
 #EXTINF:-1 tvg-id="805.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsUHD_2024.png" group-logo="" group-title="4K",Astro UHD 4K
 https://linear16-playback.sooka.my/CH1/masterCH1.mpd
 
-#############################################################################################################################################################################################################################
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btySxJvoTKei8ye+r7zK5g", "kid":"Gv3K9BmL/TIAWERp/D5REA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="549.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature4K_190x80_TV-Guide.png" group-logo="" group-title="4K",Love Nature 4K
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_ott.mpd
+
+
+
+##############################################################################################################################################################################################################################################################################
+                                                                                                                              Test
+##############################################################################################################################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台 4K" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="", TVB 翡翠台 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
+https://pixmanxo.mytvsuper.com.mp/mytvsuper/JUHD
+
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/02/257841ac-7e01-3ebb-8091-3630d0a6ef8b.jpeg?w=500&f=webp" tvg-id="052" group-title="Test", HBO Zone US (Test)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQHURlafg8JSmECHohNOUw","k":"aAvjS0qckmR3GxmDsf3JnA"},{"kty":"oct","kid":"AQJZdTB7XAUB6HEDAHSqzg","k":"sBBTAsuuI9lRvrEmkAVlNg"},{"kty":"oct","kid":"AQBGyruYoH5M3wnD77PBIQ","k":"GbD4P1ZiDyfxV5qB2-bIjQ"}],"type":"temporary"}
+https://gcp.live.na.prd.media.max.com/live/use1/e91_CixhY2EwNjZmYi05OGJiLTU3NmItYjg2YS0zZDRhZmVkN2ZiOGUtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/fallback.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -801,55 +886,3 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_ott.mpd
 
 #####EXTINF:-1 tvg-id="hbosignature.us" tvg-logo="https://docdog.top/Logotv/countries//hbosignature.png" group-title="Test",HBO Signature
 #####http://supersonictv.live:8080/live/144264/661943/22900.ts
-
-##############################################################################################################################################################################################################################################################################
-                                                                                                                                    Sky Cinema
-##############################################################################################################################################################################################################################################################################
-
-#EXTINF:-1 tvg-id="skyaction.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png" group-title="Sky Cinema",Sky Cinema Action
-http://supersonictv.live:8080/live/144264/661943/77462.ts
-
-#EXTINF:-1 tvg-id="skycinemacomedyhd.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png" group-title="Sky Cinema",Sky Cinema Comedy
-http://supersonictv.live:8080/live/144264/661943/77463.ts
-
-#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png" group-title="Sky Cinema",Sky Cinema Hits
-http://supersonictv.live:8080/live/144264/661943/77464.ts
-
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png" group-title="Sky Cinema",Sky Cinema Drama
-http://supersonictv.live:8080/live/144264/661943/77465.ts
-
-#EXTINF:-1 tvg-id="skyfamily.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Sky_Cinema_Family_%28alternative%29.svg/revision/latest/scale-to-width-down/1000?cb=20220502203843" group-title="Sky Cinema",Sky Cinema Family
-http://supersonictv.live:8080/live/144264/661943/77466.ts
-
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/90/Sky_Cinema_Greats_%282020-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20200918051036" group-title="Sky Cinema",Sky Cinema Greats
-http://supersonictv.live:8080/live/144264/661943/77467.ts
-
-#EXTINF:-1 tvg-id="skypremiere.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png" group-title="Sky Cinema",Sky Cinema Premiere
-http://supersonictv.live:8080/live/144264/661943/77468.ts
-
-#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/d/dc/Sky_Cinema_Sci-Fi_Horror_%282020-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20201028120857" group-title="Sky Cinema",Sky Cinema ScFi
-http://supersonictv.live:8080/live/144264/661943/77469.ts
-
-#EXTINF:-1 tvg-id="skyselect.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png" group-title="Sky Cinema",Sky Cinema Select
-http://supersonictv.live:8080/live/144264/661943/77470.ts
-
-#EXTINF:-1 tvg-id="skythriller.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png" group-title="Sky Cinema",Sky Cinema Thriller
-http://supersonictv.live:8080/live/144264/661943/77471.ts
-
-
-
-##############################################################################################################################################################################################################################################################################
-                                                                                                                              Test
-##############################################################################################################################################################################################################################################################################
-
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台 4K" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="Test", TVB 翡翠台 4K
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
-https://pixmanxo.mytvsuper.com.mp/mytvsuper/JUHD
-
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/02/257841ac-7e01-3ebb-8091-3630d0a6ef8b.jpeg?w=500&f=webp" tvg-id="052" group-title="Test", HBO Zone US (Test)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQHURlafg8JSmECHohNOUw","k":"aAvjS0qckmR3GxmDsf3JnA"},{"kty":"oct","kid":"AQJZdTB7XAUB6HEDAHSqzg","k":"sBBTAsuuI9lRvrEmkAVlNg"},{"kty":"oct","kid":"AQBGyruYoH5M3wnD77PBIQ","k":"GbD4P1ZiDyfxV5qB2-bIjQ"}],"type":"temporary"}
-https://gcp.live.na.prd.media.max.com/live/use1/e91_CixhY2EwNjZmYi05OGJiLTU3NmItYjg2YS0zZDRhZmVkN2ZiOGUtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/fallback.mpd
