@@ -93,7 +93,7 @@ https://linearjitp.perfecttv.net/citra.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="404.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png" group-logo="" group-title="Malaysia",Boo  
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
@@ -755,12 +755,14 @@ https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/grand.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="811.astro" tvg-name="Astro SuperSport HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="Sports",Astro Premier League 
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/premier1.mpd
+https://jandatv.online/memfs/7911b733-dac7-4fb6-b58b-ef116eb06ffe.m3u8
+#####https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/premier1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="812.astro" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="Sports",Astro Premier League 2 
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/premier2.mpd
+https://jandatv.online/memfs/47d253da-655d-4d1c-82da-dbc06bdeb1aa.m3u8
+#####https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/premier2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugi+dn4aXol3fmimmYqMGQ", "kid":"Hs4+y0FpnoVcbcmig5CCEA" } ], "type":"temporary" }
