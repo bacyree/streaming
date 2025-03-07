@@ -554,7 +554,7 @@ http://supersonictv.live:8080/live/144264/661943/77471.ts
 
 
 #EXTINF:-1 tvg-id="GB2600015OS" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463-width190-quality100.png" group-logo=""  group-title="Rakuten",Rakuten Action ᴴᴰ  
-https://jmp2.uk/sam-GB2600015OS.m3u8
+https://raw.githubusercontent.com/mystery75/m3u8/main/RACTION.m3u8
 
 #EXTINF:-1 tvg-id="British.Films.-.Rakuten.TV.en" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/4ae1c43a-3730-452d-9e09-ffd9162b0e66-width190-quality100.png" group-logo=""  group-title="Rakuten",Rakuten British Films ᴴᴰ  
 
