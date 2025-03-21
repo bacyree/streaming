@@ -814,7 +814,7 @@ https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/
 ##############################################################################################################################################################################################################################################################################
 
 
-#EXTINF:-1 tvg-id="skyaction.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png" group-title="ˢᵏʸ ᶜⁱⁿᵉᵐᵃ ᵀⱽ",Sky Cinema Action
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png" group-title="Sky Cinema",Sky Cinema Action
 http://supersonictv.live:8080/live/144264/661943/77462.ts
 
 #EXTINF:-1 tvg-id="skycinemacomedyhd.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png" group-title="Sky Cinema",Sky Cinema Comedy
