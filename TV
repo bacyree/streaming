@@ -752,6 +752,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 #EXTINF:-1 tvg-id="824.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV2.png" group-logo="" group-title="ᴴᴰ",SPOTV 2 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"By5hGjg6LR49TY6hngFqcQ", "kid":"9RWBlMxAROaZ0N8Bdy8iEg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Spl01.png" group-logo="" group-title="ᴴᴰ",SPORT 1 
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sub/8k2mdlSvVI/mGqa9Wg", "kid":"3rbITbTcRXi9qmHpZbNCTA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-chno=""  tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Spl021.png" group-logo="" group-title="ᴴᴰ",SPORT 2 
+https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
+
 #EXTINF:-1 tvg-id="SukanRTM.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/sukan_Trans.png" group-logo="" group-title="ᴴᴰ",Sukan RTM
 https://raw.githubusercontent.com/mystery75/m3u8/main/SUKANRTM.m3u8
 #https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
