@@ -28,7 +28,7 @@ https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_servi
 #####https://pop5clustera00f00619231b2c6f32bd.hypp.tv/wh7f454c46tw3543125969_-1998871662/PLTV/88888888/224/3221225724/3221225724.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=%2BeFDM2p7mN0Gqraib6uFXLA1oloJG20qlfMAqtRqEn3cz7ikWt2QBIBROS7R%2B1hMKE9QpPD9fyUAbwvIzjFeNiKz3XIdCnBrsGGjkQcprfo%3D888f9082151d98a595d0558afdd63c52%3A20250312201229%3AUTC%2C1005926113%2C60.51.28.137%2C20250312201229%2Curn%3AHuawei%3AliveTV%3Aiptv182%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1615850%2C0%2C521145%2C3562503466%2C%2C%2C2%2C1%2C43361030%2CEND&GuardEncType=2&RTS=1741810350&from=5&hms_devid=58&mag_hms=58,59&it=H4sIAAAAAAAAAy2MywoCIRRA_8alOD6utHBVBG0kmGob10ci2Eg6DfT3NTHLA-ecuaGPp4MRYQdac0TQIMGBU0qgZMwpAUErT3p82WoE8VhKnpKtYc1u4_4-MMool4IOHMhl_R0LJsP_qn0_XWwb_LoxtiX7aEJ_0AU7xZRaTDjnOtFzwc-1lU35Ah1VFuOaAAAA
 #####https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd?accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWHgJ1pKvt1lRjGVuBjPOXv2AdOKWgIh5IEiDm%2FM0j6I0o%2FoIw83oXLZFVYSQnBBI%2FiKpnGDOVh7xgstdkkeZwTJycHE0IqZBvG%2BXsudj34k%3A20240728232643%3AUTC%2C10001002674171%2C1.1.1.1%2C20240728232643%2Curn:Huawei:liveTV:iptv182%2C10001002674171%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C4165497230%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001
 
-#EXTINF:-1 tvg-id="TV6.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv6_Trans.png" group-logo="" group-title="ᴴᴰ",TV6ʳᵗᵐ 
+#EXTINF:-1 tvg-id="TV6.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv6_Trans.png" group-logo="" group-title="ᴴᴰ",TV6
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV6.m3u8
 #https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
@@ -924,11 +924,12 @@ http://supersonictv.live:8080/live/144264/661943/77471.ts
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ1ODQzOTMsImlzcyI6IlZSIiwiZXhwIjoxNzQ0NjY5ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJjMWZhNGItZGE0Mi00Y2IyLTk5YWQtNzAxYjExMzgxMWEzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.WvUHiNy4_vbMNCyr9-k6itEB-9s3v8McpLN42jKJoxc"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"p+UHiLPygTyQoXR5xtLNaA", "kid":"euZHm2z/SQ20kTzX7K72LQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={"b3c6aee13e434d7b8b50dd8871811ead":"34ef5324f5783110969c0ae2787d4c47","f8ff026a073a48bda7185c8ae4454528":"8fdc06d933d5dacb32968b5cc6c940ea"}
 #EXTINF:-1 tvg-id="805.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsUHD_2024.png" group-logo="" group-title="4K",Astro UHD 4K
-https://linear16-playback.sooka.my/CH1/masterCH1.mpd
+https://l18.dp.sooka.my/1601/linear/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btySxJvoTKei8ye+r7zK5g", "kid":"Gv3K9BmL/TIAWERp/D5REA" } ], "type":"temporary" }
