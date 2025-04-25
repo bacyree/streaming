@@ -500,6 +500,10 @@ https://webr24.hypp.tv:443/PLTV/88888888/224/3221225706/3221225706.mpd?rrsip=web
 #EXTINF:-1 tvg-id="413.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png" group-title="ᴴᴰ",Showcase Movies      
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="ᴴᴰ",Sony Pix
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1745742217:KeyName=prod_linear:Signature=0ILARwJnfzOGQ8RuEVr2plCdhhyX7GU4XsXRqkifu60H0yE_fVtPM8ys_1NvuOMJ6QM0FlO0NYOAeN9A7SsKBg"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8
+
 #####EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-title="ᴴᴰ",Star Movies
 #####http://119.152.240.15:8001/play/a0i0/index.m3u8
 
