@@ -254,14 +254,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"myfU+sMpLPfPyjMSy0CTQw", "kid":"WM4D/XC6yfYerfnXYs6OEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="100.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Xilele.png" group-logo="" group-title="ᴴᴰ",XiLele
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jCaEXnIbJXSNUeN90Gcapg", "kid":"nxLHOg2s3BDcixZcbHaYEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=9f12c73a0dacdc10dc8b165c6c769810:8c26845e721b25748d51e37dd0671aa6
+#EXTINF:-1 tvg-id="100.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Scream_2025.png" group-logo="" group-title="ᴴᴰ",Scream    
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5179/default_ott.mpd
-
-
-
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"CE52Vhu6nU866VOs3Tez7Q", "kid":"kYrevhCphI1WfcbLWtzlEA" } ], "type":"temporary" }
@@ -771,6 +767,13 @@ https://l16.dp.sooka.my/5171/linear/index.mpd
 #EXTINF:-1 tvg-id="809.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-logo="" group-title="ᴴᴰ",Astro Sport Plus 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default_ott.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ac8b2f7af05ad829805345a517bc110&key=ee1ae1cd086fa9bfc0505e6d5e9e27e9
+#EXTINF:-1 tvg-id="805.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsUHD_2024.png" group-logo="" group-title="ᴴᴰ",Astro UHD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
+
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDU1NDI2NjQsImlzcyI6IlZSIiwiZXhwIjoxNzQ1NjIwMjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjI1YzU3NTktMzY3Yi00NjlkLTkwMDUtOTBmZjhmYzdkZGQwIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.jSg1K1M0_ihyBaQCcM7FtbAXzKuWDQl7hcD_LmSKbUI"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -984,22 +987,29 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wx746KwRObmFrDZzACtwFA", "kid":"NLgxqXRQHRBvZUXp+T3gEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="",Active 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="",Active 1
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3MvfBDrEPRi+Cz60Olgodg", "kid":"tb/jVU3yq803r+Ewp+HTEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="",Active 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="",Active 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="",Active 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="",Active 3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"myfU+sMpLPfPyjMSy0CTQw", "kid":"WM4D/XC6yfYerfnXYs6OEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="",Active 4
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5179/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
