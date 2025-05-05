@@ -384,7 +384,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sZeAy9sLQthtNBUydZC2eQ", "kid":"aW5kb3NpYXIwMDAwMDAwMA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aiLzPud/q5azGP491+EzXQ", "kid":"c2N0djAwMDAwMDAwMDAwMA" },{ "kty":"oct", "k":"sZeAy9sLQthtNBUydZC2eQ", "kid":"aW5kb3NpYXIwMDAwMDAwMA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/GalaxyPremium.png" group-logo="" group-title="ᴴᴰ",Galaxy Premium
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 
