@@ -1057,8 +1057,4 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_ott.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="",Active 10
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_ott.mpd
 
-#EXTINF:-1 group-title="Movie Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="ᴴᴰ", SONY PIX HD VIP
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746592073:KeyName=prod_linear:Signature=SKUoBOzCFP_13G3Q84ot50GuT696j1T1vMPQEpk8iQuIW9zYlYS2bnKhFXgm6BSInbxO4eH6763cSfM8l6qYAg"}
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1746621454:KeyName=prod_linear:Signature=Kqd-2eOk1CJVTWkumE2koc8-65t2N7V2-GKvuzVyoLUx9J7kSp4ly3adWNjuLs3gXE5R4i6ght7PSRmPVwtuDw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8
+
