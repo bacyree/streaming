@@ -134,7 +134,10 @@ https://l18.dp.sooka.my/1000/linear/index.mpd
 #EXTINF:-1 tvg-id="112.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png" group-logo="" group-title="ᴴᴰ",Rania 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJraWQiOiI4MWNhMWIzNi1lZjhkLTRkYTUtYTY4OC02NDRiMmRlYTJkMWMiLCJqa3UiOiJodHRwczovL3NnLXNnLXNnLmFzdHJvLmNvbS5teTo5NDQzL29hdXRoMi9qd2tzP2tpZD04MWNhMWIzNi1lZjhkLTRkYTUtYTY4OC02NDRiMmRlYTJkMWMiLCJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE3NDY1OTM0NTIsInN1YiI6Ijk3ODI1MTk2IiwiYXVkIjoiaXZwLnNlc3Npb25ndWFyZCIsImV4cCI6MTc0NjYwNDI1Miwic2Vzc2lvbl9kYXRhIjp7InNlc3Npb24iOnsiZGV2SWQiOiI5NzgyNTE5Ni5hMDk3ZDIxYi02M2JjLTQ1M2YtYTQ4OC0xN2E3OWUxYTBjMjIiLCJndWVzdE1vZGUiOmZhbHNlLCJoaElkIjoiOTc4MjUxOTYiLCJidXNVbml0SWQiOiJBU1RSTyJ9fSwiZGV2…BwbGF5YmFjayIsInRva2VuX3R5cGUiOiJhY2Nlc3NfdG9rZW4iLCJzc2FfanRpIjoiYnJvd3NlciIsImNsaWVudF9pZCI6ImJyb3dzZXIiLCJqdGkiOiJiMjg0ODdkOS01N2JhLTQyOTQtOTcyNy1jZTI2MzY0NWIyZmQifQ.XZfwu9BKmNb9AxDy1e1zIcmbCY2lhw6Z2YmN1FBoKeehvmEKDz1YXQ-nfInCbX-WBHvAmt3xKQEkU1iZnjOtghk7btuJZ77DuOmczdroaxLleI_SB4iuLB_btmKVWy4neofaOir_qByoyIy78NK6t40LoyRLbJSX8jkOHmET6a5Rc02EG7WisLa4FAp93j46FaNsjAA5N0GAnm1LPuRra94jFtdzDD-Kasf7GJJj2sbBaRKGbosuG48sZDuVcKSJFShQNbyJSY2jB8Uf9iDgWEhbtDmAZi4eH-dRa44N8yJey6SWZDtBfMkg4GDRsQA11jF1GkQa38IqfXof5s0ppA"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="104.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png" group-logo="" group-title="ᴴᴰ",Ria  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
