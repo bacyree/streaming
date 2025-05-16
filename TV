@@ -186,20 +186,22 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #EXTINF:-1 tvg-id="Vasantham" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-logo="" group-title="ᴴᴰ",Sg
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1539959/assetType/media/assetFileId/19534270/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license? custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMVjRMM2xaMm5tNklIaEg0QmxmR3dYQjkwUkQyVThmdDMxNTRlMEJZcVNEcUNLbVFhZkx5bHlOSFo0NWExejkzanFLTXpHek5KOVZLRGdBRDd3Q1pnYjNYLUtRUEEtaE5SVGxxMHdTUlQwVTdNR0tLOTlxaE1JTXBlRmQxQVpMemR3YzA0VFFVTDNsVmN4by1rdDZuR2dIZmtEY1hRUm1MM3o1WVhnWmFHRjZERUZYTUctQUtLbnZHZFEwTmlfa3ViMGpGWTc3enJxM2hHQTgzX182OWFIR0ROWDNzOGNvSGlsdzQ1NXVOQXBwUkxCSDV3VWVCVEJMa0NaMUl4ckdPdmJXamw3VUNUVDFXb0xzRTRTNzh4dXc0M2ZaZ0R1RFdQdXc5VUVEQTRjV09XMGdTRmtnUkZVd0RkWXVMVHQwTF9pQWQzcUg4bC10TWpUaGlEWTFTOEE9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEyNCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmTFY0TDNsWjJubTZJSGhINEJsZkd3WEI5MFJEMlU4ZnQzMTU0ZTBCWXFTRHFDS21RYWZMeWx5TkhaNDVhMXo5M2pxS016R3pOSjlWS0RnQUQ3d0NaZ2IzWC1LUVBBLWhOUlRscTB3U1JUMFU3TUdLSzk5cWhNSU1wZUZkMUFaTHpkd2MwNFRRVUwzbFZjeG8ta3Q2bkdnSGZrRGNYUVJtTDN6NVlYZ1phR0Y2REVGWE1HLUFLS252R2RRME5pX2t1YjBqRlk3N3pycTNoR0E4M19fNjlhSEdETlgzczhjb0hpbHc0NTV1TkFwcFJMQkg1d1VlQlRCTGtDWjFJeHJHT3ZiV2psN1VDV购物xV29Mc0U0Uzc4eHV3NDNmWmdEdURXUHV3OVVFREE0Y11dPVzBnU0ZrZ1JGVXdEZFl1TFR0MExfaUFkM3FIOGwtdE1qVGhpRFkxUzhBPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=izeYamcpD3Dh1w2Hb7rW%2f%2bqaFCM%3d
-#EXTINF:-1 tvg-id="Suria" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-logo="" group-title="ᴴᴰ",Sg2 
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-id="mewatchlive1.sg" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Mlive1.png" group-title="ᴴᴰ",mewatch Live 1
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/206040/assetType/media/assetFileId/9561289/contextType/PLAYBACK/isAltUrl/False/a.mpd
+#####https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MNW1eZZtgishXsUakdiicQ", "kid":"YNwIquUvTAuAao5D8koSyA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="mewatchlive2.sg" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Mlive2.png" group-title="ᴴᴰ",mewatch Live 2
-https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/232439/assetType/media/assetFileId/2808449/contextType/PLAYBACK/isAltUrl/False/a.mpd
+#####https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PWroWzToqsdIjHgM6iFTBg", "kid":"zbg0pPL9QTqOUNGnFwcB0g" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="mewatchlive2.sg" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Mlive2.png" group-title="ᴴᴰ",mewatch Live 5
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/299270/assetType/media/assetFileId/13303393/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"51Fl04uQlWfAM1OuSye2+A", "kid":"AesRaCCJQPiycLTgmUVw5w" },{ "kty":"oct", "k":"jacsqFAaTetL/Dgf4XN+9A", "kid":"BighV9pOj5diOnDtAX+tEA" } ], "type":"temporary" } 
