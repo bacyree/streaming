@@ -13,12 +13,12 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/TV2.m3u8
 #https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 tvg-id="103.unifi" ch-number="103" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-logo="" group-title="ᴴᴰ",TV3
-https://tvmalaysia.website/memfs/d28cafc6-f60a-4dcd-ad81-f95abb832bc8.m3u8
+https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=M2E0MDgyMmYtMzFkNi0zYWFkLTgyODYtZTA5MDFiNjUyNmZh
-#EXTINF:-1 tvg-id="103.unifi" ch-number="103" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-logo="" group-title="ᴴᴰ",TV3* 
-https://webr24.hypp.tv:443/PLTV/88888888/224/3221225724/3221225724.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=w7ZMce9r%2BMS%2FWmFCCx8tPbqgByV74TuyZxyRMjwvpZRjv%2BxolOISjfkK11gTNvdirUG6T%2FSHppk5VzHgoJgW11%2F4pU7%2FwGcol05rIj8vS40aEMY27zyfteBx%2FfxjTuYPb346706678985136c251b1cd71aa3b02%3A20250526112330%3AUTC%2C1005926113%2C175.141.242.123%2C20250526112330%2Curn%3AHuawei%3AliveTV%3Aiptv182%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1615850%2C0%2C521145%2C228840667%2C%2C%2C2%2C1%2C43361030%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAEWOy2rDMBRE_0ZLYT1spwutEgKB4hbsdhuupCvFWLZcyQnk7xM3hmxn5gxnSWDwdFAWOOf6g3EhC8kE7rRwGqpSG9CudoZk_Gui4sRACP3km2hX7Lfdn1lBC8qloIxXpFv_jgH8Nm2uo8b05lpMt96gstnRG2QK3if0sPRxot8B7j8pbBOC3ebGarnjVS3KSpSSLGvaQR6eDblA3sdxhoT2M_p_QDkIGckMZgCPDYyopmsIL-4r2afNAwAyjzT1AAAA
+#####KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#####KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=M2E0MDgyMmYtMzFkNi0zYWFkLTgyODYtZTA5MDFiNjUyNmZh
+#####EXTINF:-1 tvg-id="103.unifi" ch-number="103" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-logo="" group-title="ᴴᴰ",TV3* 
+#####https://webr24.hypp.tv:443/PLTV/88888888/224/3221225724/3221225724.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=w7ZMce9r%2BMS%2FWmFCCx8tPbqgByV74TuyZxyRMjwvpZRjv%2BxolOISjfkK11gTNvdirUG6T%2FSHppk5VzHgoJgW11%2F4pU7%2FwGcol05rIj8vS40aEMY27zyfteBx%2FfxjTuYPb346706678985136c251b1cd71aa3b02%3A20250526112330%3AUTC%2C1005926113%2C175.141.242.123%2C20250526112330%2Curn%3AHuawei%3AliveTV%3Aiptv182%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1615850%2C0%2C521145%2C228840667%2C%2C%2C2%2C1%2C43361030%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAEWOy2rDMBRE_0ZLYT1spwutEgKB4hbsdhuupCvFWLZcyQnk7xM3hmxn5gxnSWDwdFAWOOf6g3EhC8kE7rRwGqpSG9CudoZk_Gui4sRACP3km2hX7Lfdn1lBC8qloIxXpFv_jgH8Nm2uo8b05lpMt96gstnRG2QK3if0sPRxot8B7j8pbBOC3ebGarnjVS3KSpSSLGvaQR6eDblA3sdxhoT2M_p_QDkIGckMZgCPDYyopmsIL-4r2afNAwAyjzT1AAAA
 #####https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd?accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWHgJ1pKvt1lRjGVuBjPOXv2AdOKWgIh5IEiDm%2FM0j6I0o%2FoIw83oXLZFVYSQnBBI%2FiKpnGDOVh7xgstdkkeZwTJycHE0IqZBvG%2BXsudj34k%3A20240728232643%3AUTC%2C10001002674171%2C1.1.1.1%2C20240728232643%2Curn:Huawei:liveTV:iptv182%2C10001002674171%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C4165497230%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001
 
 #####KODIPROP:inputstream.adaptive.license_type=clearkey
