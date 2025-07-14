@@ -826,6 +826,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
 #EXTINF:-1 tvg-id="611.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png" group-logo="" group-title="Kids",Ceria    
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
+#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screen-bug/disney-channel-bug-us.png?raw=true" group-title="Kids",Disney Channel 
+https://v18.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8?token=i6jUEIP_2Y_7L8eq3Sy4zw&expires=1752524435&user_id=VWlyaUZKdXpwWkkwb1lwZVRSeWRTYlQ4S1Rna3BLeGxFZ2ZuSEI2Sw==
+
+#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" group-title="Kids",Disney Junior 
+https://v17.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8?token=8tZXtMDF7aWrV_FQumW-GQ&expires=1752524445&user_id=VWlyaUZKdXpwWkkwb1lwZVRSeWRTYlQ4S1Rna3BLeGxFZ2ZuSEI2Sw==
+
+#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-xd-us.png?raw=true" group-title="Kids",Disney XD 
+https://v5.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8?token=9C0FLFSt1HyKlbRC-l8T6g&expires=1752524454&user_id=VWlyaUZKdXpwWkkwb1lwZVRSeWRTYlQ4S1Rna3BLeGxFZ2ZuSEI2Sw==
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
